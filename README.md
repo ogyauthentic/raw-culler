@@ -1,6 +1,6 @@
 # RAW Culler 📷
 
-A fast RAW photo culling tool for Windows 10 — inspired by Ogy.
+A fast RAW photo culling tool for Windows 10.
 Instantly extract camera-embedded JPEG thumbnails without full RAW rendering, so you can keep, reject, and flag photos at full speed.
 
 ## Supported Formats
