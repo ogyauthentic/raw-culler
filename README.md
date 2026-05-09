@@ -38,7 +38,7 @@ Requirements: Python 3.10+, [Inno Setup 6](https://jrsoftware.org/isdl.php) *(op
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/raw-culler.git
+git clone https://github.com/ogyauthenti/raw-culler.git
 cd raw-culler
 
 # 2. Double-click build_installer.bat
@@ -75,4 +75,4 @@ raw-culler/
 ```
 
 ## License
-GPL v3 — see [LICENSE](LICENSE) for details.
+GPL v3.
