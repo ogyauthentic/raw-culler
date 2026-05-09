@@ -1,7 +1,7 @@
 """
 RAW Photo Culler for Windows 10
 ================================
-Fast RAW preview & culling tool — inspired by Ogy
+Fast RAW preview & culling tool
 Supports: .raf, .arw, .cr3, .nef, .dng, .orf, .rw2, .pef
 
 Install dependencies:
