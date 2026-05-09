@@ -75,4 +75,4 @@ raw-culler/
 ```
 
 ## License
-MIT
+GPL v3 — see [LICENSE](LICENSE) for details.
