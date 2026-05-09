@@ -75,5 +75,4 @@ raw-culler/
 ```
 
 ## License
-
 MIT
